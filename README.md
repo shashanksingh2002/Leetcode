@@ -6,15 +6,15 @@ Day1:
    ii] 74 Search a 2D matrix (Medium) </br>
     
 Day2: </br>
-    i] 387 First Unique character (Easy) 
-   ii] 383 Ransom Note (Easy)
-  iii] 242 Valid anagram (Easy)
-   iv] 2124 check if all 'a' before 'b' (Easy)
-    v] 2126 Destroying Asteroids (Medium)
-   vi] 2125 Number of Laser Beams in the bank (Medium)
+    i] 387 First Unique character (Easy) </br>
+   ii] 383 Ransom Note (Easy) </br>
+  iii] 242 Valid anagram (Easy) </br>
+   iv] 2124 check if all 'a' before 'b' (Easy) </br>
+    v] 2126 Destroying Asteroids (Medium) </br>
+   vi] 2125 Number of Laser Beams in the bank (Medium) </br>
    
-Day3:
-    i] 203 Remove Linked List element (Easy)
-   ii] 21 Merge Two Sorted List (Easy)
-  iii] 141 Linked List Cycle (Easy)
-   iv] 997 Find The Town Judge (Easy)
+Day3: </br>
+    i] 203 Remove Linked List element (Easy) </br>
+   ii] 21 Merge Two Sorted List (Easy) </br>
+  iii] 141 Linked List Cycle (Easy) </br>
+   iv] 997 Find The Town Judge (Easy) </br>
