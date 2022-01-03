@@ -1,7 +1,7 @@
-# Leetcode
-My 365 Days leetCode challenge
+# Leetcode </br>
+My 365 Days leetCode challenge </br>
 
-Day1:
+Day1: </br>
     i] 36 Valid Soduku (Medium) </br>
    ii] 74 Search a 2D matrix (Medium) </br>
     
