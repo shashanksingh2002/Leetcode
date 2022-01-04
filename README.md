@@ -18,3 +18,8 @@ Day3: </br>
    ii] 21 Merge Two Sorted List (Easy) </br>
   iii] 141 Linked List Cycle (Easy) </br>
    iv] 997 Find The Town Judge (Easy) </br>
+   
+Day4: </br>
+    i] 206 Reverse Linked List (Easy) </br>
+   ii] 83 Remove Duplicates From Sorted List (Easy) </br>
+   
