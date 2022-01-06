@@ -23,3 +23,12 @@ Day4: </br>
     i] 206 Reverse Linked List (Easy) </br>
    ii] 83 Remove Duplicates From Sorted List (Easy) </br>
    
+Day5: </br>
+    i] 20 Valid Paranthesis (Easy) </br>
+   ii] 232 Implement queue using stacks (Easy) </br>
+   
+Day6: </br>
+    i] 144 BinaryTree Preorder Traversal (Easy) </br>
+   ii] 94 BinaryTree Inorder Traversal (Easy) </br>
+  iii] 145 BinaryTree Postorder Traversal (Easy) </br>
+   
