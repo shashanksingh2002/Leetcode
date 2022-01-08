@@ -31,4 +31,7 @@ Day6: </br>
     i] 144 BinaryTree Preorder Traversal (Easy) </br>
    ii] 94 BinaryTree Inorder Traversal (Easy) </br>
   iii] 145 BinaryTree Postorder Traversal (Easy) </br>
+  
+Day7: </br>
+    i] 226 Invert Binary Tree (Easy) </br>
    
