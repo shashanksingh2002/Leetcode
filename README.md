@@ -36,3 +36,6 @@ Day7: </br>
     i] 226 Invert Binary Tree (Easy) </br>
    ii] 700 Search In A Binary Search Tree (Easy) </br>
    
+Day8: </br>
+    i] 104 Maximum Depth Of Binary Tree (Easy) </br>
+   
