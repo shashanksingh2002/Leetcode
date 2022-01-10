@@ -40,3 +40,7 @@ Day8: </br>
     i] 104 Maximum Depth Of Binary Tree (Easy) </br>
    ii] 2130 Maximum Twin Sum Of A Linked List (Medium) </br>
    
+Day9: </br>
+    i] 112 Path Sum In BST (Easy) </br>
+   ii] 67 Add Binary (Easy) </br>
+   
