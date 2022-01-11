@@ -47,5 +47,7 @@ Day9: </br>
 Day10: </br>
     i] 278 First Bad Version (Easy) </br>
    ii] 35 Search Insert Position (Easy) </br>
-  iii] 704 Binary Search (Easy) </br>
-   iv] 1022 Sum Of Root To Leaf Binary Numbers (Easy) </br>
+   
+Day11: </br>
+    i] 704 Binary Search (Easy) </br>
+   ii] 1022 Sum Of Root To Leaf Binary Numbers (Easy) </br>
