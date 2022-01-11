@@ -44,3 +44,7 @@ Day9: </br>
     i] 112 Path Sum In BST (Easy) </br>
    ii] 67 Add Binary (Easy) </br>
    
+Day10: </br>
+    i] 278 First Bad Version (Easy) </br>
+   ii] 35 Search Insert Position (Easy) </br>
+  iii] 704 Binary Search (Easy) </br>
