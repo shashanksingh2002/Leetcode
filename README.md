@@ -51,3 +51,7 @@ Day10: </br>
 Day11: </br>
     i] 704 Binary Search (Easy) </br>
    ii] 1022 Sum Of Root To Leaf Binary Numbers (Easy) </br>
+   
+Day12: </br>
+    i] 189 Rotate Array (Medium) </br>
+   ii] 977 Square Of Sorted Array (Easy) </br>
