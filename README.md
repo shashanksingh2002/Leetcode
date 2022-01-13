@@ -1,5 +1,7 @@
 # Leetcode </br>
+
 My 365 Days leetCode challenge </br>
+<img src="https://leetcode.com/shashank2002/"> </br>
 
 Day1: </br>
     i] 36 Valid Soduku (Medium) </br>
@@ -55,3 +57,7 @@ Day11: </br>
 Day12: </br>
     i] 189 Rotate Array (Medium) </br>
    ii] 977 Square Of Sorted Array (Easy) </br>
+   
+Day13: </br>
+    i] 167 Two Sum II - Input Array Is Sorted (Easy) </br>
+   ii] 283 Move Zeros (Easy) </br>
