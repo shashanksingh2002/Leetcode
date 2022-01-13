@@ -1,7 +1,7 @@
 # Leetcode </br>
 
 My 365 Days leetCode challenge </br>
-<img src="https://leetcode.com/shashank2002/"> </br>
+<a href="https://leetcode.com/shashank2002/">LeetCode Profile </a> </br>
 
 Day1: </br>
     i] 36 Valid Soduku (Medium) </br>
