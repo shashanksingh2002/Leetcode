@@ -62,3 +62,7 @@ Day13: </br>
     i] 167 Two Sum II - Input Array Is Sorted (Easy) </br>
    ii] 283 Move Zeros (Easy) </br>
   iii] 61 Rotate List (Medium) </br>
+  
+Day14:/br>
+    i] 344 Reverse String (Easy) </br>
+   ii] 557 Reverse Words In a String-III (Easy) </br>
