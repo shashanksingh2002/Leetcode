@@ -79,3 +79,6 @@ Day16: </br>
 Day17: </br>
     i] 733 Flood Fill (Easy) </br>
    ii] 605 Can Flower Place (Easy) </br>
+   
+Day18: </br>
+    i] 695 Max Area of Island (Medium) </br>
