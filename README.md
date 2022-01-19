@@ -82,3 +82,6 @@ Day17: </br>
    
 Day18: </br>
     i] 695 Max Area of Island (Medium) </br>
+    
+Day19: </br>
+    i] 142 Linked List Cycle II (Medium) </br>
