@@ -92,5 +92,5 @@ Day20: </br>
    ii] 101 Symmetric Tree (Easy) </br>
    
 Day21: </br>
-    i]
-   ii]
+    i] 1291 Sequential Digits (Medium) </br>
+   ii] 
