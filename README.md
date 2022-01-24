@@ -93,4 +93,7 @@ Day20: </br>
    
 Day21: </br>
     i] 1291 Sequential Digits (Medium) </br>
-   ii] 520 Detect Capital </br>
+   ii] 520 Detect Capital (Easy) </br>
+   
+Day22: </br>
+    i] 938 Range Sum of BST (Easy) </br>
