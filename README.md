@@ -93,4 +93,4 @@ Day20: </br>
    
 Day21: </br>
     i] 1291 Sequential Digits (Medium) </br>
-   ii] 
+   ii] 520 Detect Capital </br>
