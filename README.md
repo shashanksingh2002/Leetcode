@@ -100,3 +100,6 @@ Day22: </br>
     
 Day23: </br>
     i] 941 Valid Mountain Array (Easy) </br>
+    
+Day24: </br>
+    i] 258 Add Digits (Easy) </br>
