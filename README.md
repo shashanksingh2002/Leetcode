@@ -103,3 +103,6 @@ Day23: </br>
     
 Day24: </br>
     i] 258 Add Digits (Easy) </br>
+
+Day25: </br>
+    i] 287 Find the Duplicate Number (Medium) </br>
