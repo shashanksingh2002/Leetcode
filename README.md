@@ -109,3 +109,8 @@ Day25: </br>
     
 Day26: </br>
     i] 75 Sort Colors (Medium) </br>
+    
+Day27: </br>
+    i] 2154 Keep Multiplying Found Values by Two (Easy) </br>
+   ii] 2155 All Divisions With the Highest Score of a Binary Array (Medium) </br>
+
