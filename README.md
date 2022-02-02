@@ -116,3 +116,9 @@ Day27: </br>
 
 Day28: </br>
     i] 1672 Richest Customer Wealth (Easy) </br>
+    
+Day29:</br>
+    i] 121 Best Time to Buy and Sell Stock (Easy) </br>
+    
+Day30: </br>
+    i] 438 Find All Anagrams in a String (Medium) </br>
