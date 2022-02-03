@@ -122,3 +122,6 @@ Day29:</br>
     
 Day30: </br>
     i] 438 Find All Anagrams in a String (Medium) </br>
+    
+Day31: </br>
+    i] 136 Single Number (Easy) </br>
