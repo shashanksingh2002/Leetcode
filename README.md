@@ -125,3 +125,6 @@ Day30: </br>
     
 Day31: </br>
     i] 136 Single Number (Easy) </br>
+    
+Day32: </br>
+    i] 1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold (Medium) </br>
