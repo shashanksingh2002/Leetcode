@@ -128,3 +128,6 @@ Day31: </br>
     
 Day32: </br>
     i] 1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold (Medium) </br>
+    
+Day33: </br>
+    i] 80 Remove Duplicates from Sorted Array II (Medium) </br>
