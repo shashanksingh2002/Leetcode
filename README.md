@@ -131,3 +131,7 @@ Day32: </br>
     
 Day33: </br>
     i] 80 Remove Duplicates from Sorted Array II (Medium) </br>
+
+Day34: </br>
+    i] 389 Find the Difference (Easy) </br>
+   ii] 
