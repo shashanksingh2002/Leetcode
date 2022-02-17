@@ -1,6 +1,6 @@
 # Leetcode </br>
 
-My 365 Days leetCode challenge </br>
+My 365 Days Coding challenge </br>
 <a href="https://leetcode.com/shashank2002/">LeetCode Profile </a> </br>
 
 Day1: </br>
@@ -137,3 +137,16 @@ Day34: </br>
   
 Day35: </br>
     i] 100 Same Tree (Easy) </br>
+    
+Day36: </br>
+    (Codeforces Practice Problems)
+    
+Day37: </br>
+    (Codeforces Practice Problems)
+   
+Day38 </br>
+    (Codeforces Practice Problems)
+    
+Day39: </br>
+    (Codeforces Practice Problems)
+    i] 637. Average of Levels in Binary Tree (Easy);
