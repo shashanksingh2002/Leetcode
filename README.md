@@ -139,14 +139,18 @@ Day35: </br>
     i] 100 Same Tree (Easy) </br>
     
 Day36: </br>
-    (Codeforces Practice Problems)
+    (Codeforces Practice Problems) </br>
     
 Day37: </br>
-    (Codeforces Practice Problems)
+    (Codeforces Practice Problems) </br>
    
 Day38 </br>
-    (Codeforces Practice Problems)
+    (Codeforces Practice Problems) </br>
     
 Day39: </br>
-    (Codeforces Practice Problems)
-    i] 637. Average of Levels in Binary Tree (Easy);
+    (Codeforces Practice Problems) </br>
+    i] 637. Average of Levels in Binary Tree (Easy) </br>
+    
+Day40: </br>
+    i] 215. Kth Largest Element in an Array (Medium) </br>
+   ii] Kth smallest element GFG (Medium) </br>
