@@ -154,3 +154,7 @@ Day39: </br>
 Day40: </br>
     i] 215. Kth Largest Element in an Array (Medium) </br>
    ii] Kth smallest element GFG (Medium) </br>
+   
+Day41: </br>
+    i] 1523. Count Odd Numbers in an Interval Range (Easy) </br>
+   ii] 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy) </br>
