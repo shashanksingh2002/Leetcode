@@ -158,3 +158,7 @@ Day40: </br>
 Day41: </br>
     i] 1523. Count Odd Numbers in an Interval Range (Easy) </br>
    ii] 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy) </br>
+   
+Day42: </br>
+    i] 191. Number of 1 Bits (Easy) </br>
+   ii] 1281. Subtract the Product and Sum of Digits of an Integer (Easy) </br>
