@@ -165,3 +165,9 @@ Day42: </br>
 
 Day43: </br>
     i] 338. Counting Bits (Easy) </br>
+    
+Day44: </br>
+    i] 1822. Sign of the Product of an Array (Easy) </br>
+   ii] 1502. Can Make Arithmetic Progression From Sequence (Easy) </br>
+  iii] 202. Happy Number (Easy) </br>
+   iv] 1790. Check if One String Swap Can Make Strings Equal (Easy) </br>
