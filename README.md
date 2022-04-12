@@ -171,3 +171,6 @@ Day44: </br>
    ii] 1502. Can Make Arithmetic Progression From Sequence (Easy) </br>
   iii] 202. Happy Number (Easy) </br>
    iv] 1790. Check if One String Swap Can Make Strings Equal (Easy) </br>
+   
+Day45: </br>
+    i] 289. Game of Life (Medium) </br>
