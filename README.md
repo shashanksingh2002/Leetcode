@@ -174,3 +174,7 @@ Day44: </br>
    
 Day45: </br>
     i] 289. Game of Life (Medium) </br>
+    
+Day46: </br>
+    i] 59. Spiral Matrix II (Medium) </br>
+   ii] 54. Spiral Matrix (Medium) </br>
