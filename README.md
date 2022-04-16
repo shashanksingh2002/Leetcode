@@ -178,3 +178,6 @@ Day45: </br>
 Day46: </br>
     i] 59. Spiral Matrix II (Medium) </br>
    ii] 54. Spiral Matrix (Medium) </br>
+
+Day47: </br>
+    i] 73. Set Matrix Zeroes (Medium) </br>
