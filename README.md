@@ -181,3 +181,6 @@ Day46: </br>
 
 Day47: </br>
     i] 73. Set Matrix Zeroes (Medium) </br>
+    
+Day48: </br>
+    i] 118. Pascal's Triangle (Easy) </br>
