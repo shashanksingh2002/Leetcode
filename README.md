@@ -184,3 +184,6 @@ Day47: </br>
     
 Day48: </br>
     i] 118. Pascal's Triangle (Easy) </br>
+    
+Day49: </br>
+    i] 172. Factorial Trailing Zeroes (Medium) </br>
