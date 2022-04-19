@@ -187,3 +187,6 @@ Day48: </br>
     
 Day49: </br>
     i] 172. Factorial Trailing Zeroes (Medium) </br>
+    
+Day50: </br>
+    i] 2091. Removing Minimum and Maximum From Array (Medium) </br>
