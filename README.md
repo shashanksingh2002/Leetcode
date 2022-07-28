@@ -190,3 +190,6 @@ Day49: </br>
     
 Day50: </br>
     i] 2091. Removing Minimum and Maximum From Array (Medium) </br>
+    
+Day51: </br>
+    i] 205. Isomorphic Strings (Easy) </br>
