@@ -9,19 +9,19 @@ class Solution
         string UncommonChars(string A, string B)
         {
             string ans = "";
-            int hash1[127]={0};
-            int hash2[127]={0};
+            int hash1[26]={0};
+            int hash2[26]={0};
             for(int i=0;i<A.length();i++){
-                hash1[A[i]]++;
+                hash1[A[i]-97]++;
             }
             
             for(int i=0;i<B.length();i++){
-                hash2[B[i]]++;
+                hash2[B[i]-97]++;
             }
             
-            for(int i=0;i<127;i++){
+            for(int i=0;i<26;i++){
                 if(hash1[i] && !hash2[i] || !hash1[i] && hash2[i]){
-                    char ch = i;
+                    char ch = i+97;
                     ans += ch;
                 }
             }
