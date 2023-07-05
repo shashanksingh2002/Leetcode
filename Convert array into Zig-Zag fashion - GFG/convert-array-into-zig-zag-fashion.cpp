@@ -10,19 +10,14 @@ class Solution {
   public:
     // Program for zig-zag conversion of array
     void zigZag(int arr[], int n) {
-        sort(arr,arr+n);
-        vector<int> ans(n);
-        for(int i=0,j=n-1,k=0;k<n;k++){
-            if(k%2==0){
-              ans[k] =  arr[i++];
-            }
-            else{
-                ans[k] = arr[j--];
-            }
-        }
-        for(int i=0;i<n;i++){
-            arr[i] = ans[i];
-        }
+       for(int i=1;i<n;i++){
+           if(i%2!=0 && arr[i]<arr[i-1]){
+               swap(arr[i],arr[i-1]);
+           }
+           else if(i%2==0 && arr[i]>arr[i-1]){
+               swap(arr[i],arr[i-1]);
+           }
+       }
     }
 };
 
